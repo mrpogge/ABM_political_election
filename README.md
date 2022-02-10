@@ -1,6 +1,7 @@
 # ABM_political_election
 
 ## Model definition
+With this political election model we studied different types of voting systems with different politcal party positions. To study this we used an agent based modelling approach. In this model the agents are the polical parties and the voters.
 
 ## Experiment setup
 Different types of voting systems are tested under various party setups. The party positions that we used for our research can be seen in 'running the model'. We studied three different voting systems on these party setups, namely the plurality voting system, the approval voting system and the instant runoff voting system.
