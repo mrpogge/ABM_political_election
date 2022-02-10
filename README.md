@@ -1,9 +1,9 @@
 # ABM_political_election
-In this github there are several files: \n
-ABM model Final Version is the main file wich contains the model
-SA_political_election is the sensitivity analysis of this model
-Stat tests are the statistical tests of the model
-All other text files contain the results
+In this github there are several files: <br/>
+ABM model Final Version is the main file wich contains the model <br/>
+SA_political_election is the sensitivity analysis of this model <br/>
+Stat tests are the statistical tests of the model <br/>
+All other text files contain the results <br/>
 
 ## Model definition
 With this political election model we studied different types of voting systems with different politcal party positions. To study this we used an agent based modelling approach. In this model the agents are the polical parties and the voters.
