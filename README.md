@@ -3,8 +3,10 @@
 ## Model definition
 
 ## Experiment setup
+Different types of voting systems are tested under various party setups. The party positions that we used for our research can be seen in 'running the model'. We studied three different voting systems on these party setups, namely the plurality voting system, the approval voting system and the instant runoff voting system.
 
 ## Statistical analysis
+The stastical analysis is done with the Kolmogorov-Smirnov test. The results of these tests can be seen in the file stats test.ipynb. The results that were used for these stastical tests can be found in the .txt files.
 
 ## Sensitivity analysis
 
